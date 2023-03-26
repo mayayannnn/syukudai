@@ -1,2 +1,2 @@
 a = "training"
-print(a[1:4])
+print(a[1:5])
